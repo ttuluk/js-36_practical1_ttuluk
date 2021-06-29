@@ -1,7 +1,15 @@
 //import "./js/variables.js";
 //import "./js/primitives.js";
-import "./js/toString.js";
+// import "./js/toString.js";
 //import "./js/toNumber.js";
 //import "./js/toBoolean.js";
 //import "./js/false-values.js";
-/* import "./js/toNaN.js"; */
+// import "./js/toNaN.js";
+// import "./js/logical-operators.js";
+// import "./js/method-split.js";
+// import "./js/massive/base1.js";
+// import "./js/massive/function.js";
+// import "./js/massive/massive.js";
+// import "./js/massive/max-massive.js";
+// import "./js/object/conspect.js";
+import "./js/object/objectRepeta.js";
