@@ -12,4 +12,11 @@
 // import "./js/massive/massive.js";
 // import "./js/massive/max-massive.js";
 // import "./js/object/conspect.js";
-import "./js/object/objectRepeta.js";
+// import "./js/object/objectRepeta.js";
+// import "./js/callback/fun_conspect.js";
+// import "./js/callback/modul4-online.js";
+// import "./js/callback/tests.js";
+// import "./js/callback/repeta_callback.js";
+// import "./js/callback/callback-math.js";
+import "./js/callback/get-current-position.js";
+import "./js/callback/filter.js";
