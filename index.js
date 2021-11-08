@@ -8,15 +8,30 @@
 // import "./js/logical-operators.js";
 // import "./js/method-split.js";
 // import "./js/massive/base1.js";
+// import "./js/massive/array-practik.js";
 // import "./js/massive/function.js";
 // import "./js/massive/massive.js";
 // import "./js/massive/max-massive.js";
-// import "./js/object/conspect.js";
+// import "./js/massive/tests.js";
+// import "./js/object/abstract.js";
 // import "./js/object/objectRepeta.js";
-// import "./js/callback/fun_conspect.js";
+// import "./js/callback/fun_abstract.js";
 // import "./js/callback/modul4-online.js";
 // import "./js/callback/tests.js";
 // import "./js/callback/repeta_callback.js";
 // import "./js/callback/callback-math.js";
-import "./js/callback/get-current-position.js";
-import "./js/callback/filter.js";
+// import "./js/callback/get-current-position.js";
+// import "./js/callback/filter.js";
+// import "./js/callback/closures.js";
+
+// import "./js/prototype/abstract.js";
+// import "./js/prototype/practik.js";
+// import "./js/function/function-type.js";
+// import "./js/array-method/forEach.js";
+import "./js/array-method/map.js";
+// import "./js/array-method/task.js";
+// import "./js/array-method/test.js";
+
+// import "./js/object/objectSandra.js";
+// import "./js/object/refs.js";
+// import "./js/object/form.js";
